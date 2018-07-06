@@ -8,7 +8,7 @@ namespace hello
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("welcome to.");
-            Console.WriteLine("end");
+            Console.WriteLine("end.");
         }
     }
 }
